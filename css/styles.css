@@ -1,0 +1,111 @@
+body {
+    margin : 0;
+    text-align: center;
+    background-color: #E3DFFD;
+    
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #3E54AC;
+    
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    color: #3E54AC;
+    font-weight: normal;
+    line-height: 2;
+}
+
+h3 {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: #6578c7;
+    
+    line-height: 2;
+}
+
+.top-container {
+    background-color: #ECF2FF;
+    position: relative;
+    padding-top: 100px;
+}
+
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.skill{
+    width: 200px;
+    float: left;
+    margin-right: 30px;
+}
+
+.gif {
+    width: 200px;
+    float: right;
+    margin-left: 30px;
+}
+
+.profile {
+    background-color: #E3DFFD;
+    color: #13496d ;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.skills {
+    text-align: center;
+    
+    font-size: 25px;
+    color: #13496d;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.contact-me {
+    background-color: #E5D1FA;
+    font-size: 15px;
+    color: #13496d;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    
+}
+
+.bottom-container{
+    background-color: #E5D1FA;
+    font-size: 15px;
+    color: #13496d;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+
+hr {
+    border-style: dotted;
+    
+    border-width: 15px ;
+    border-bottom: none;
+    border-color: #13496d;
+    width: 20%;
+}
